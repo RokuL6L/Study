@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\WSU\Desktop\201910790_장세현\3023\Test\Test\main.c(30,7): warning C4047: '초기화 중': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\WSU\Desktop\201910790_장세현\3023\Test\Test\main.c(31,7): warning C4101: 'pa' :참조되지 않은 지역 변수입니다.
+C:\Users\WSU\Desktop\201910790_장세현\3023\Test\Test\main.c(33,6): warning C4101: 'arr2' :참조되지 않은 지역 변수입니다.
+C:\Users\WSU\Desktop\201910790_장세현\3023\Test\Test\main.c(34,8): warning C4101: 'p2' :참조되지 않은 지역 변수입니다.
+  Test.vcxproj -> C:\Users\WSU\Desktop\201910790_장세현\3023\Test\x64\Debug\Test.exe
