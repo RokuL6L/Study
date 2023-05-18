@@ -1,0 +1,4 @@
+﻿  exception.cpp
+C:\Users\WSU\Documents\GitHub\Study\201910790_장세현\0518\Test\Test\exception.cpp(42,13): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+C:\Users\WSU\Documents\GitHub\Study\201910790_장세현\0518\Test\Test\exception.cpp(71,13): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+  Test.vcxproj -> C:\Users\WSU\Documents\GitHub\Study\201910790_장세현\0518\Test\x64\Debug\Test.exe
